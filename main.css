@@ -1,0 +1,34 @@
+*{
+    display: flexbox;
+    margin: 5px;
+    align-items:center;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+
+h1 {
+    text-align: center;
+    margin: 16px;
+}
+
+button {
+    background-color: greenyellow;
+    color: blue;
+    border-radius: 20%;
+    margin-left: 12px;
+    font-size: 18px;
+    width: 20%;
+    border-color: rgb(218, 155, 155);
+    cursor: pointer;
+}
+
+input {
+    background-color: #ccc;
+    color: black;
+    width: 50%;
+    text-align: right;
+    border-radius: 8px;
+}
